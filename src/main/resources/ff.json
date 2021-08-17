@@ -1,0 +1,334 @@
+{
+  "data": {
+    "title": "默认",
+    "icon_url": "https://pic3.zhimg.com/v2-6fd9e32fd2ba18594bba0690ad9f2bb6.png",
+    "stickers": [
+      {
+        "title": "谢邀",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[谢邀]",
+        "id": "1114210829515608064"
+      },
+      {
+        "title": "赞同",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[赞同]",
+        "id": "1114210858015776768"
+      },
+      {
+        "title": "爱",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[爱]",
+        "id": "1114210882334343168"
+      },
+      {
+        "title": "害羞",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[害羞]",
+        "id": "1114210935216230400"
+      },
+      {
+        "title": "好奇",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[好奇]",
+        "id": "1114210960411426816"
+      },
+      {
+        "title": "思考",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[思考]",
+        "id": "1114210982725201920"
+      },
+      {
+        "title": "酷",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[酷]",
+        "id": "1114211010638270464"
+      },
+      {
+        "title": "大笑",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[大笑]",
+        "id": "1114211037045587968"
+      },
+      {
+        "title": "微笑",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[微笑]",
+        "id": "1114211070893678592"
+      },
+      {
+        "title": "捂脸",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[捂脸]",
+        "id": "1114211103915278336"
+      },
+      {
+        "title": "捂嘴",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[捂嘴]",
+        "id": "1114211128653230080"
+      },
+      {
+        "title": "飙泪笑",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[飙泪笑]",
+        "id": "1114211186345885696"
+      },
+      {
+        "title": "耶",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[耶]",
+        "id": "1114211231329869824"
+      },
+      {
+        "title": "可怜",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[可怜]",
+        "id": "1114211261969276928"
+      },
+      {
+        "title": "惊喜",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[惊喜]",
+        "id": "1114211280118018048"
+      },
+      {
+        "title": "流泪",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[流泪]",
+        "id": "1114211302700273664"
+      },
+      {
+        "title": "大哭",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[大哭]",
+        "id": "1114211322635726848"
+      },
+      {
+        "title": "生气",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[生气]",
+        "id": "1114211356022464512"
+      },
+      {
+        "title": "惊讶",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[惊讶]",
+        "id": "1114211381561458688"
+      },
+      {
+        "title": "调皮",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[调皮]",
+        "id": "1114211405984907264"
+      },
+      {
+        "title": "衰",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[衰]",
+        "id": "1114211436292960256"
+      },
+      {
+        "title": "发呆",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[发呆]",
+        "id": "1114211464109469696"
+      },
+      {
+        "title": "机智",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[机智]",
+        "id": "1114211498737704960"
+      },
+      {
+        "title": "嘘",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[嘘]",
+        "id": "1114211517079498752"
+      },
+      {
+        "title": "尴尬",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[尴尬]",
+        "id": "1114211542618566656"
+      },
+      {
+        "title": "小情绪",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[小情绪]",
+        "id": "1114211564047147008"
+      },
+      {
+        "title": "为难",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[为难]",
+        "id": "1114211589208944640"
+      },
+      {
+        "title": "吃瓜",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[吃瓜]",
+        "id": "1114211610281054208"
+      },
+      {
+        "title": "语塞",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[语塞]",
+        "id": "1114211636726140928"
+      },
+      {
+        "title": "看看你",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[看看你]",
+        "id": "1114211660885327872"
+      },
+      {
+        "title": "撇嘴",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[撇嘴]",
+        "id": "1114211683261878272"
+      },
+      {
+        "title": "魔性笑",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[魔性笑]",
+        "id": "1114211701112889344"
+      },
+      {
+        "title": "潜水",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[潜水]",
+        "id": "1114211730712031232"
+      },
+      {
+        "title": "口罩",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[口罩]",
+        "id": "1114211752270876672"
+      },
+      {
+        "title": "开心",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[开心]",
+        "id": "1114211774655778816"
+      },
+      {
+        "title": "滑稽",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[滑稽]",
+        "id": "1114211774655778817"
+      },
+      {
+        "title": "笑哭",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[笑哭]",
+        "id": "1114211774655778818"
+      },
+      {
+        "title": "白眼",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[白眼]",
+        "id": "1114211774655778819"
+      },
+      {
+        "title": "红心",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[红心]",
+        "id": "1114211774655778820"
+      },
+      {
+        "title": "柠檬",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[柠檬]",
+        "id": "1114211774655778821"
+      },
+      {
+        "title": "拜托",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[拜托]",
+        "id": "1114211794016788480"
+      },
+      {
+        "title": "握手",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[握手]",
+        "id": "1114211823741685760"
+      },
+      {
+        "title": "赞",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[赞]",
+        "id": "1114211849712869376"
+      },
+      {
+        "title": "发火",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[发火]",
+        "id": "1114211873297432576"
+      },
+      {
+        "title": "不抬杠",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[不抬杠]",
+        "id": "1114211893329457152"
+      },
+      {
+        "title": "种草",
+        "dynamic_image_url": null,
+        "group_id": "1114161698310770688",
+        "placeholder": "[种草]",
+        "id": "1114211893329457153"
+      }
+    ],
+    "version": 2,
+    "selected_icon_url": null,
+    "type": "emoji",
+    "id": "1114161698310770688"
+  }
+}
